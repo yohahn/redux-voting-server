@@ -100,8 +100,6 @@ describe('application logic', () => {
       }));
     });
 
-    
-
   });
 
   describe('vote', () => {
